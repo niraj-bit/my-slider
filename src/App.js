@@ -9,11 +9,11 @@ import Section from './Components/Section';
 
 function App() {
   return (
-    <Fragment>
+    <div>
       {/* <Section> */}
         <WithScrollbar />
       {/* </Section> */}
-    </Fragment>
+    </div>
   );
 }
 
