@@ -90,9 +90,9 @@ class WithScrollbar extends React.Component {
         }}
       >
         <div class="image-container increase-size">
-          <div class="image-container-text">
+          {/* <div class="image-container-text">
             <p>1</p>
-          </div>
+          </div> */}
           <img
             draggable={false}
             style={{ width: "100%", cursor: "pointer" }}
